@@ -17,4 +17,4 @@ Please modify it and adapt it to your own usage. If you improve it, please do pu
 
 Annotations licensing stays with Unicode licensing for the initial files. Please respect their copyright in your derived products.
 
-This tool is public domain.
+This tool follows the GNU Free Documentation License, Version 1.2.
